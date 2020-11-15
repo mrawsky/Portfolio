@@ -5,6 +5,7 @@
 Cześć! Jestem Mrawsky, Specjalizuję się w Projektowaniu oraz Wykonywaniu: Stron Internetowych, Grafik (Logo, Bannerów itp), Animacji i Montażem Komercyjnych Wideo.
 Moje Wykonane Prace Możecie znaleźć właśnie tutaj!
 
+- - -
 
 | EN
 
