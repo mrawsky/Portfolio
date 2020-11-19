@@ -1,5 +1,6 @@
 # Mrawsky | Artwork
 
-| SecretPlace  <br>
+| SecretPlace
+
 <img src="SecretPlace.png" width="150">
 
