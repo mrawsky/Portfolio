@@ -1,6 +1,5 @@
-# Logo
+# Mrawsky | Logo
 
 | SecretPlace
-
-<img src="SecretPlace.png">
+<img src="SecretPlace.png" width="150">
 
