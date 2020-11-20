@@ -12,4 +12,4 @@
 
 | iStreetly
 <br>
-<img src="iStreetly.png" width="150">
+<img src="iStreetly.jpg" width="150">
