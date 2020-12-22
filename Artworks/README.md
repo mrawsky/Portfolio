@@ -14,4 +14,4 @@
 <br>
 <img src="iStreetly.jpg" width="150">
 <br>
-<img src="iStreetly2.png" width="350">
+<img src="iStreetly2.png" width="150">
