@@ -2,7 +2,7 @@
 
 | PL
 
-Cześć! Jestem Mrawsky, Zajmuję się Projektowaniem oraz Wykonywaniu: Grafik (Logo, Bannerów itp), Animacji, Stron Internetowych i Montażem Wideo.
+Cześć! Jestem Mrawsky, Zajmuję się Projektowaniem oraz Wykonywaniem: Grafik (Logo, Bannerów itp), Animacji, Stron Internetowych i Montażem Wideo.
 Moje Wykonane Prace Możecie znaleźć właśnie tutaj!
 
 - - -
