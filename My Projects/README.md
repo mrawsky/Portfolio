@@ -8,6 +8,7 @@ Aktualny Status: Działa od 2017
 https://www.youtube.com/c/MusicStationx
 mallowrecords@gmail.com
 
+<br>
 
 | GameLine.PL
 <br>
