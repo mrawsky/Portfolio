@@ -3,11 +3,14 @@
 | Mallow Records
 <br>
 Promocja różnych gatunków muzycznych zazwyczaj elektronicznej. Poprzez YouTube oraz SoundCloud.
+<br>
 Aktualny Status: Działa od 2017
 
 https://www.youtube.com/c/MusicStationx
+<br>
 mallowrecords@gmail.com
 
+<br>
 <br>
 
 | GameLine.PL
