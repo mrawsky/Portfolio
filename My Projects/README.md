@@ -1,13 +1,17 @@
-# Mrawsky | Portfolio
+# Mrawsky | My Projects
 
-| PL
+| Mallow Records
+<br>
+Promocja różnych gatunków muzycznych zazwyczaj elektronicznej. Poprzez YouTube oraz SoundCloud.
+Aktualny Status: Działa od 2017
 
-Cześć! Jestem Mrawsky, Zajmuję się Projektowaniem oraz Wykonywaniem: Grafik (Logo, Bannerów itp), Animacji, Stron Internetowych i Montażem Wideo.
-Moje Wykonane Prace Możecie znaleźć właśnie tutaj!
+https://www.youtube.com/c/MusicStationx
+mallowrecords@gmail.com
 
-- - -
 
-| EN
+| GameLine.PL
+<br>
+Sieć Serwerów FiveM | Głównie RolePlay
+Aktualny Status: Działa od 2020
 
-Hi! I am Mrawsky, I specialize in Designing and Implementing: Websites, Graphics (Logos, Banners etc.), Animation and Commercial Video Editing.
-You Can Find my Works Right Here!
+https://discord.gg/g8abFcRVjc

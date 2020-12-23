@@ -1,4 +1,4 @@
-# Mrawsky | Strony Internetowe - Websites
+# Mrawsky | Websites
 
 | PL
 
