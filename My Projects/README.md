@@ -16,6 +16,7 @@ mallowrecords@gmail.com
 | GameLine.PL
 <br>
 Sieć Serwerów FiveM | Głównie RolePlay
+<br>
 Aktualny Status: Działa od 2020
 
 https://discord.gg/g8abFcRVjc
